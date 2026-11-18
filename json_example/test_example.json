@@ -1,0 +1,26 @@
+{
+  "title": "Atom massasi",
+  "description": "Kimyo fanidan namunaviy test",
+  "questions": [
+    {
+      "question": "Massaning atom birligi son qiymatini toping?",
+      "options": [
+        "1,97·10-27",
+        "1,67·10-27",
+        "1,77·10-27",
+        "1,87·10-27"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Suvning kimyoviy formulasi qaysi?",
+      "options": [
+        "CO2",
+        "H2O",
+        "O2",
+        "NaCl"
+      ],
+      "answer": 2
+    }
+  ]
+}
